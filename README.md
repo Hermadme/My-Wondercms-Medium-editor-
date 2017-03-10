@@ -1,4 +1,4 @@
-# My-Wondercms-Medium-editor-
+# My_Wondercms_Medium_editor
 An addition to the medium editor plugin forWwonderCMS
 
 To use this plugin, download and extract the zip file, put the folder 'mediumeditor_HA' in the plugins folder of your WonderCMS website. You now can use the medium editor. You should remove the original medium editor plugin from the plugin folder in order to prevent a conflict.
