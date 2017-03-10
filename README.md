@@ -12,3 +12,4 @@ The next code goes in you're theme php file. if you don't do that, you will have
 ?>
 ```
 
+If you don't need all the buttons, you can remove the buttons you don't need.
